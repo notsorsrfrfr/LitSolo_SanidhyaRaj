@@ -29,5 +29,5 @@ personalized feedback.
 - 🔄 3D stage environment (in progress)
 
 ## Team
-Built solo by Lit Solo — combining 2+ years of Unreal Engine cinematography 
+Built solo by Lit Solo, combining 2+ years of Unreal Engine cinematography 
 and animation experience with AI integration.

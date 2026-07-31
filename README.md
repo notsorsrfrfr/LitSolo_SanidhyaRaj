@@ -1,4 +1,4 @@
-# SpeakEasy VR — Public Speaking Practice Room
+# SpeakEasy VR: Public Speaking Practice Room
 
 **Team:** Lit Solo
 **Track:** Open Innovation (Education)

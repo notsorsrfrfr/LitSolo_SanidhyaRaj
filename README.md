@@ -14,6 +14,8 @@ SpeakEasy VR is a private virtual practice stage built in Unreal Engine 5,
 where students rehearse in front of a simulated audience that scales from 
 small to large. An AI coach (Google Gemini API) analyzes what users type 
 about their topic or nervousness and responds with short, encouraging, 
+<img width="1316" height="508" alt="image" src="https://github.com/user-attachments/assets/06ae56a8-a5fc-4a84-bed3-e58488edaaeb" />
+
 personalized feedback.
 
 ## Tech Stack
